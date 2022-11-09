@@ -21,9 +21,6 @@ function Menu() {
             <a href="#">
               <li>Contact</li>
             </a>
-            <a href="https://erikterwan.com/" target="_blank">
-              <li>Show me more</li>
-            </a>
           </ul>
         </div>
         <div className="logo">
