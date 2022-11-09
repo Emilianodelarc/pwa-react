@@ -3,9 +3,10 @@ import medical from '../img/medical.png'
 function Banner() {
   return (
     <>
-        <div class="load">
-            <i class="fa fa-heartbeat fa-3x"></i>
+        <div className="load">
+            <i className="fa fa-heartbeat fa-3x"></i>
         </div>
+
         <center>  <h1 className='banner-load'>Keep beating... </h1></center>
 
         <p className='banner-p'>MMH obtains all the information 

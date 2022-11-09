@@ -1,5 +1,4 @@
 import React from "react";
-import logo from '../img/logo.png'
 function Menu() {
   return (
     <>
@@ -28,7 +27,7 @@ function Menu() {
           </ul>
         </div>
         <div className="logo">
-        <i class="fas fa-heartbeat coraz"></i>
+        <i className="fas fa-heartbeat coraz"></i>
         <p>My Medical History</p>
         </div>
       </nav>
