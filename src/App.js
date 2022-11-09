@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Intro from "./components/Intro";
 import './App.css'
 import Start from "./view/Start";
 function App() {
