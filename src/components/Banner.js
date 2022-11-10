@@ -15,7 +15,7 @@ function Banner() {
         throughout his life... 
         </p>
         <div className='banner-btn-center'>
-          <Link to={'/'} className='banner-btn'>Get Started</Link>
+          <Link to={'/login'} className='banner-btn'>Get Started</Link>
         </div>
         <div className='banner-img'>
           <img src={medical} alt='medical'/>

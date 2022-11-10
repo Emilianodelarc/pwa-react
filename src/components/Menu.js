@@ -1,9 +1,12 @@
 import React from "react";
+import User from "./User";
+import { useUserAuth } from "../context/AuthContext";
 function Menu() {
+  const {user} = useUserAuth()
   return (
     <>
       <nav className='navigation' role="navigation">
-        <div id="menuToggle">
+        {user && <div id="menuToggle">
           <input type="checkbox" />
           <span></span>
           <span></span>
@@ -21,8 +24,9 @@ function Menu() {
             <a href="#">
               <li>Contact</li>
             </a>
+            <User/>
           </ul>
-        </div>
+        </div>}
         <div className="logo">
         <i className="fas fa-heartbeat coraz"></i>
         <p>My Medical History</p>
