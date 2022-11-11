@@ -1,6 +1,7 @@
 import React from "react";
 import User from "./User";
 import { useUserAuth } from "../context/AuthContext";
+import { Link } from "react-router-dom";
 function Menu() {
   const {user} = useUserAuth()
   return (
@@ -12,9 +13,9 @@ function Menu() {
           <span></span>
           <span></span>
           <ul id="menu">
-            <a href="#">
+            <Link to={'/startet'}>
               <li>Home</li>
-            </a>
+            </Link>
             <a href="#">
               <li>About</li>
             </a>

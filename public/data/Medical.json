@@ -1,0 +1,2270 @@
+[
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-14923354",
+       "importe_aprobado": 7934,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS GENERAL MANUEL BELGRANO",
+       "codigo_refes": 10063712100390,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-14926506",
+       "importe_aprobado": 8519,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS GENERAL MANUEL BELGRANO",
+       "codigo_refes": 10063712100390,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-15262232",
+       "importe_aprobado": 11416,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS GENERAL MANUEL BELGRANO",
+       "codigo_refes": 10063712100390,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-19684823",
+       "importe_aprobado": 7204,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS SAN FELIPE",
+       "codigo_refes": 10067632100395,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-22655252",
+       "importe_aprobado": 27856,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-30904200",
+       "importe_aprobado": 604,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS EURNEKIAN(EX MADRE TERESA DE CALCUTA)",
+       "codigo_refes": 10062702100403,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-31732027",
+       "importe_aprobado": 955,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2017-33822431",
+       "importe_aprobado": 19702,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS MAGDALENA V. DE MARTINEZ",
+       "codigo_refes": 10068052100391,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-01391205",
+       "importe_aprobado": 1597,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS SAN FELIPE",
+       "codigo_refes": 10067632100395,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-01978680",
+       "importe_aprobado": 36127,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-01979070",
+       "importe_aprobado": 25547.6,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-05138274",
+       "importe_aprobado": 5155,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-05139338",
+       "importe_aprobado": 1953,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-05532284",
+       "importe_aprobado": 1635,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-05538932",
+       "importe_aprobado": 2558,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-09242368",
+       "importe_aprobado": 3792,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-11084342",
+       "importe_aprobado": 8238,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-12349728",
+       "importe_aprobado": 288,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-12353271",
+       "importe_aprobado": 48513.97,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-12448559",
+       "importe_aprobado": 143952.05,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-14020737",
+       "importe_aprobado": 28262.9,
+       "nombre_hospital": "HOSPITAL SUBZONAL SAN PEDRO (EMILIO RUFFA)",
+       "codigo_refes": 10067702200368,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-14929792",
+       "importe_aprobado": 2052,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE COLON",
+       "codigo_refes": 10061752200289,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15139523",
+       "importe_aprobado": 4272,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15142296",
+       "importe_aprobado": 2128,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15143113",
+       "importe_aprobado": 897,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15149003",
+       "importe_aprobado": 340,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15150278",
+       "importe_aprobado": 66,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15150833",
+       "importe_aprobado": 6817,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15151637",
+       "importe_aprobado": 32330,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15151651",
+       "importe_aprobado": 2231,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15151875",
+       "importe_aprobado": 274,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15151891",
+       "importe_aprobado": 154,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15158476",
+       "importe_aprobado": 3194,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15158777",
+       "importe_aprobado": 1003,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15159035",
+       "importe_aprobado": 29433,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15159720",
+       "importe_aprobado": 2387,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15584094",
+       "importe_aprobado": 66,
+       "nombre_hospital": "COLONIA NACIONAL DR. MANUEL A. MONTE DE OCA",
+       "codigo_refes": 13064972000612,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-15693168",
+       "importe_aprobado": 592970.13,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DR. RAUL LARCADE",
+       "codigo_refes": 10067602200313,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16065701",
+       "importe_aprobado": 8543,
+       "nombre_hospital": "CENTRO DE SALUD EL ARCO.",
+       "codigo_refes": 50068052201235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16068483",
+       "importe_aprobado": 10400,
+       "nombre_hospital": "C.A.P.S. CARUPA",
+       "codigo_refes": 50068052201366,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16071076",
+       "importe_aprobado": 1949,
+       "nombre_hospital": "CENTRO DE PREVENCION Y ASISTENCIA EN NUTRICION",
+       "codigo_refes": 50068052206696,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16073518",
+       "importe_aprobado": 2989,
+       "nombre_hospital": "CENTRO DE ATENCION FAMILIAR Y DE SALUD EVA PERON",
+       "codigo_refes": 50068052216731,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16082058",
+       "importe_aprobado": 13391,
+       "nombre_hospital": "CENTRO DE SALUD DIQUE LUJAN.",
+       "codigo_refes": 50068052201335,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16084365",
+       "importe_aprobado": 8017,
+       "nombre_hospital": "CENTRO DE SALUD LAS TUNAS (GRAL.PACHECO BS.AS.)",
+       "codigo_refes": 50068052201257,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16230683",
+       "importe_aprobado": 1687,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16230885",
+       "importe_aprobado": 2504,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16237313",
+       "importe_aprobado": 1978,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16259623",
+       "importe_aprobado": 4760.49,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16263962",
+       "importe_aprobado": 2514,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16310014",
+       "importe_aprobado": 3714,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16433781",
+       "importe_aprobado": 6940,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-16434129",
+       "importe_aprobado": 30276,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-18885041",
+       "importe_aprobado": 447621.61,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DR. RAUL LARCADE",
+       "codigo_refes": 10067602200313,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-19727436",
+       "importe_aprobado": 1819,
+       "nombre_hospital": "HOSPITAL ESPECIALIZADO MATERNO INFANTIL ANA GOITIA",
+       "codigo_refes": 12060352100558,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-19739223",
+       "importe_aprobado": 6536,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-19739571",
+       "importe_aprobado": 91450.83,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-21195348",
+       "importe_aprobado": 1455,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-22792574",
+       "importe_aprobado": 10811,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-22794688",
+       "importe_aprobado": 349,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-22798698",
+       "importe_aprobado": 1812,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23576631",
+       "importe_aprobado": 5217,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23577439",
+       "importe_aprobado": 110095.79,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23577926",
+       "importe_aprobado": 40116,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23755128",
+       "importe_aprobado": 9029,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS SAN FELIPE",
+       "codigo_refes": 10067632100395,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23756844",
+       "importe_aprobado": 416,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS SAN FELIPE",
+       "codigo_refes": 10067632100395,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23762934",
+       "importe_aprobado": 624,
+       "nombre_hospital": "CENTRO DE SALUD ARGENTINO TORRES",
+       "codigo_refes": 50062522201775,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23762988",
+       "importe_aprobado": 208,
+       "nombre_hospital": "CENTRO DE SALUD ARGENTINO TORRES",
+       "codigo_refes": 50062522201775,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23767790",
+       "importe_aprobado": 79,
+       "nombre_hospital": "CENTRO DE SALUD EVA PERON",
+       "codigo_refes": 50062522202283,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23767919",
+       "importe_aprobado": 79,
+       "nombre_hospital": "CENTRO DE SALUD EVA PERON",
+       "codigo_refes": 50062522202283,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23768081",
+       "importe_aprobado": 79,
+       "nombre_hospital": "CENTRO DE SALUD EVA PERON",
+       "codigo_refes": 50062522202283,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-23768140",
+       "importe_aprobado": 79,
+       "nombre_hospital": "CENTRO DE SALUD EVA PERON",
+       "codigo_refes": 50062522202283,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-25464521",
+       "importe_aprobado": 287,
+       "nombre_hospital": "CAPS LA RIBERA",
+       "codigo_refes": 50067562201471,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-25468022",
+       "importe_aprobado": 316,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-25483075",
+       "importe_aprobado": 553,
+       "nombre_hospital": "CENTRO PERIFERICO BECCAR",
+       "codigo_refes": 50067562201457,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-25498383",
+       "importe_aprobado": 36868,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-25502133",
+       "importe_aprobado": 7270,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-27969974",
+       "importe_aprobado": 220829.81,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-29600290",
+       "importe_aprobado": 1896,
+       "nombre_hospital": "HTAL. MUNICIPAL VTE. LOPEZ DR. BERNARDO A. HOUSSAY",
+       "codigo_refes": 10068612200298,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-29604683",
+       "importe_aprobado": 6604,
+       "nombre_hospital": "HTAL. MUNICIPAL VTE. LOPEZ DR. BERNARDO A. HOUSSAY",
+       "codigo_refes": 10068612200298,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-29606165",
+       "importe_aprobado": 10262,
+       "nombre_hospital": "HTAL. MUNICIPAL VTE. LOPEZ DR. BERNARDO A. HOUSSAY",
+       "codigo_refes": 10068612200298,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-29647827",
+       "importe_aprobado": 5338,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS MAGDALENA V. DE MARTINEZ",
+       "codigo_refes": 10068052100391,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-31122934",
+       "importe_aprobado": 25136,
+       "nombre_hospital": "COLONIA NACIONAL DR. MANUEL A. MONTE DE OCA",
+       "codigo_refes": 13064972000612,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-31373791",
+       "importe_aprobado": 6174,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS DR. DIEGO PAROISSIEN",
+       "codigo_refes": 10064272100387,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-31516326",
+       "importe_aprobado": 2906,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS DR. DIEGO PAROISSIEN",
+       "codigo_refes": 10064272100387,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-32982569",
+       "importe_aprobado": 474,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33242191",
+       "importe_aprobado": 1452,
+       "nombre_hospital": "CENTRO DE SALUD DR FRANCISCO MU¥IZ \"EL NIDO\"",
+       "codigo_refes": 50067562201243,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33248663",
+       "importe_aprobado": 340,
+       "nombre_hospital": "HOSPITAL MUNICIPAL CIUDAD DE BOULOGNE",
+       "codigo_refes": 10067562200202,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33252539",
+       "importe_aprobado": 3866,
+       "nombre_hospital": "HOSPITAL MUNICIPAL CIUDAD DE BOULOGNE",
+       "codigo_refes": 10067562200202,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33254531",
+       "importe_aprobado": 4908,
+       "nombre_hospital": "HOSPITAL MUNICIPAL CIUDAD DE BOULOGNE",
+       "codigo_refes": 10067562200202,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33255590",
+       "importe_aprobado": 1336,
+       "nombre_hospital": "HOSPITAL MUNICIPAL CIUDAD DE BOULOGNE",
+       "codigo_refes": 10067562200202,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33535539",
+       "importe_aprobado": 83224,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS LUISA CRAVENNA DE GANDULFO",
+       "codigo_refes": 10064902100232,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33607786",
+       "importe_aprobado": 87692.99,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33607893",
+       "importe_aprobado": 1484,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33881988",
+       "importe_aprobado": 964,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS MI PUEBLO",
+       "codigo_refes": 10062742100225,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-33903309",
+       "importe_aprobado": 7000,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS MI PUEBLO",
+       "codigo_refes": 10062742100225,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-34281438",
+       "importe_aprobado": 597,
+       "nombre_hospital": "HOSPITAL NACIONAL BALDOMERO SOMMER",
+       "codigo_refes": 14063642000660,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-34288679",
+       "importe_aprobado": 9539,
+       "nombre_hospital": "HOSPITAL ESPECIALIZADO MATERNO INFANTIL ANA GOITIA",
+       "codigo_refes": 12060352100558,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-12",
+       "nro_expediente": "2018-34288977",
+       "importe_aprobado": 550,
+       "nombre_hospital": "HOSPITAL NACIONAL BALDOMERO SOMMER",
+       "codigo_refes": 14063642000660,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09244885",
+       "importe_aprobado": 3291,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09283994",
+       "importe_aprobado": 3357,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09286517",
+       "importe_aprobado": 890,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09698030",
+       "importe_aprobado": 2013,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09798656",
+       "importe_aprobado": 1840,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09800582",
+       "importe_aprobado": 4890,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09817061",
+       "importe_aprobado": 264,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09830526",
+       "importe_aprobado": 944,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09840744",
+       "importe_aprobado": 1568,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09847631",
+       "importe_aprobado": 17123,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09903829",
+       "importe_aprobado": 1718,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09913292",
+       "importe_aprobado": 1860,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-09927896",
+       "importe_aprobado": 111467.74,
+       "nombre_hospital": "HOSPITAL SUBZONAL MUNICIPAL DR. MIGUEL L. CAPREDONI",
+       "codigo_refes": 10061052200363,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10119891",
+       "importe_aprobado": 52306.3,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10305793",
+       "importe_aprobado": 14851,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10305988",
+       "importe_aprobado": 214111.12,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10307952",
+       "importe_aprobado": 677,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10308187",
+       "importe_aprobado": 10502,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10308389",
+       "importe_aprobado": 25718,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10310429",
+       "importe_aprobado": 10063,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10312336",
+       "importe_aprobado": 77328.61,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10322044",
+       "importe_aprobado": 677,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10322250",
+       "importe_aprobado": 340,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10322437",
+       "importe_aprobado": 77219,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10322836",
+       "importe_aprobado": 93112.13,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10323787",
+       "importe_aprobado": 73987.08,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10327136",
+       "importe_aprobado": 5190,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10482011",
+       "importe_aprobado": 49633.43,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10623520",
+       "importe_aprobado": 5064,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-10625905",
+       "importe_aprobado": 65588.62,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-12219319",
+       "importe_aprobado": 102,
+       "nombre_hospital": "INSTITUTO DE ORTODONCIA",
+       "codigo_refes": 50067492201648,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-12221153",
+       "importe_aprobado": 126,
+       "nombre_hospital": "CENTRO  BARRIO MEJORAL",
+       "codigo_refes": 50067492201559,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-12223873",
+       "importe_aprobado": 1082,
+       "nombre_hospital": "CENTRO N 26 DE SAN FERNANDO.",
+       "codigo_refes": 50067492201303,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-13994023",
+       "importe_aprobado": 1658,
+       "nombre_hospital": "HTAL. MUNICIPAL VTE. LOPEZ DR. BERNARDO A. HOUSSAY",
+       "codigo_refes": 10068612200298,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14552659",
+       "importe_aprobado": 3409,
+       "nombre_hospital": "CENTRO DE SALUD Nø 2",
+       "codigo_refes": 50062702202552,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14690198",
+       "importe_aprobado": 59859.46,
+       "nombre_hospital": "HOSPITAL SUBZONAL MUNICIPAL DR. MIGUEL L. CAPREDONI",
+       "codigo_refes": 10061052200363,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14774689",
+       "importe_aprobado": 165549.3,
+       "nombre_hospital": "INSTITUTO NACIONAL DE REHABILITACION PSICOFISICA DEL SUR",
+       "codigo_refes": 14063572000671,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14916401",
+       "importe_aprobado": 47989,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS ABRAHAM F. PI¥EYRO",
+       "codigo_refes": 10064132100381,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14919261",
+       "importe_aprobado": 3829.1,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-14938374",
+       "importe_aprobado": 2489,
+       "nombre_hospital": "CENTRO DR. REINEKE",
+       "codigo_refes": 50067492201222,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-19644623",
+       "importe_aprobado": 24976.38,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-19695472",
+       "importe_aprobado": 396,
+       "nombre_hospital": "HOSPITAL SUBZONAL DR. ENRIQUE ERILL",
+       "codigo_refes": 10062522100384,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-19736648",
+       "importe_aprobado": 6825,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO NEUROPSIQUIATRICO DR. ALEJANDRO KORN",
+       "codigo_refes": 13064412100614,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-22799135",
+       "importe_aprobado": 108037.68,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-23056398",
+       "importe_aprobado": 15004,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-23304566",
+       "importe_aprobado": 9290.5,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-23305063",
+       "importe_aprobado": 274,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-23310169",
+       "importe_aprobado": 7436,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-24477011",
+       "importe_aprobado": 9844,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DESCENTRALIZADO EVITA PUEBLO",
+       "codigo_refes": 10060912100383,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-24792797",
+       "importe_aprobado": 15237,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DR. ALBERTO BALESTRINI",
+       "codigo_refes": 12064272116387,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-25273153",
+       "importe_aprobado": 12342,
+       "nombre_hospital": "COLONIA NACIONAL DR. MANUEL A. MONTE DE OCA",
+       "codigo_refes": 13064972000612,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-28341058",
+       "importe_aprobado": 2868,
+       "nombre_hospital": "HOSPITAL ZONAL ESPECIALIZADO EN ONCOLOGIA LUCIANO FORTABAT",
+       "codigo_refes": 14065952100666,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-31122366",
+       "importe_aprobado": 482,
+       "nombre_hospital": "COLONIA NACIONAL DR. MANUEL A. MONTE DE OCA",
+       "codigo_refes": 13064972000612,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-31123186",
+       "importe_aprobado": 29800,
+       "nombre_hospital": "COLONIA NACIONAL DR. MANUEL A. MONTE DE OCA",
+       "codigo_refes": 13064972000612,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-32691811",
+       "importe_aprobado": 49802.56,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-32707500",
+       "importe_aprobado": 453846.89,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33498652",
+       "importe_aprobado": 1301,
+       "nombre_hospital": "CENTRO DE SALUD DR. HORACIO CANESI",
+       "codigo_refes": 50062522201837,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33508804",
+       "importe_aprobado": 1040,
+       "nombre_hospital": "CENTRO DE SALUD DR. LUIS RESIO",
+       "codigo_refes": 50062522201232,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33549195",
+       "importe_aprobado": 20294.76,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS LUISA CRAVENNA DE GANDULFO",
+       "codigo_refes": 10064902100232,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33555487",
+       "importe_aprobado": 6278,
+       "nombre_hospital": "HOSPITAL LOCAL GENERAL DE AGUDOS DR. ARTURO MELO",
+       "codigo_refes": 10064342100248,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33605882",
+       "importe_aprobado": 18258.16,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33606758",
+       "importe_aprobado": 53017.4,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33606870",
+       "importe_aprobado": 37301.1,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33606946",
+       "importe_aprobado": 680,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33607012",
+       "importe_aprobado": 29162.9,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33607075",
+       "importe_aprobado": 812,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33607170",
+       "importe_aprobado": 3653.68,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33931657",
+       "importe_aprobado": 1723,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO NEUROPSIQUIATRICO DR. ALEJANDRO KORN",
+       "codigo_refes": 13064412100614,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-33934420",
+       "importe_aprobado": 1705,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO NEUROPSIQUIATRICO DR. ALEJANDRO KORN",
+       "codigo_refes": 13064412100614,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-17",
+       "nro_expediente": "2018-36622543",
+       "importe_aprobado": 14416,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DESCENTRALIZADO EVITA PUEBLO",
+       "codigo_refes": 10060912100383,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2017-30705557",
+       "importe_aprobado": 23789,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS SAN FELIPE",
+       "codigo_refes": 10067632100395,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-02318668",
+       "importe_aprobado": 422802.8,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-09287727",
+       "importe_aprobado": 19224,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-09288655",
+       "importe_aprobado": 30258,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10123360",
+       "importe_aprobado": 208,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10312977",
+       "importe_aprobado": 1602,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10313437",
+       "importe_aprobado": 349,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10323977",
+       "importe_aprobado": 208,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10477334",
+       "importe_aprobado": 60934.5,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-10482384",
+       "importe_aprobado": 557,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-12231820",
+       "importe_aprobado": 166520.38,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-15141290",
+       "importe_aprobado": 57104.78,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-15150825",
+       "importe_aprobado": 129949.97,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-16268738",
+       "importe_aprobado": 20382.79,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-16352336",
+       "importe_aprobado": 34509,
+       "nombre_hospital": "CENTRO DE SALUD Nø 2",
+       "codigo_refes": 50062702202552,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-17944242",
+       "importe_aprobado": 79,
+       "nombre_hospital": "CENTRO DE SALUD DR. LUIS RESIO",
+       "codigo_refes": 50062522201232,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-19651375",
+       "importe_aprobado": 46335.96,
+       "nombre_hospital": "HOSPITAL MUNICIPAL RAMON SANTAMARINA",
+       "codigo_refes": 10067912200333,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-19728924",
+       "importe_aprobado": 934,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DR. CARLOS BOCALANDRO",
+       "codigo_refes": 10068402100398,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-19738942",
+       "importe_aprobado": 241644,
+       "nombre_hospital": "HODPITAL ZONAL ESPECIALIZADO EN CRONICOS EL DIQUE",
+       "codigo_refes": 14062452100664,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-20192423",
+       "importe_aprobado": 964,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-20202532",
+       "importe_aprobado": 27771.44,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-20206753",
+       "importe_aprobado": 482,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-20730654",
+       "importe_aprobado": 19521,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE SAN ISIDRO",
+       "codigo_refes": 10067562200293,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-22798398",
+       "importe_aprobado": 1376,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-22804751",
+       "importe_aprobado": 740,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-22804934",
+       "importe_aprobado": 20801.5,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-23056686",
+       "importe_aprobado": 14351,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-23297166",
+       "importe_aprobado": 24865,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-23299832",
+       "importe_aprobado": 66710.59,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-23303269",
+       "importe_aprobado": 3273.8,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-23577004",
+       "importe_aprobado": 14548.6,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24450950",
+       "importe_aprobado": 1893,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24457227",
+       "importe_aprobado": 51640,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24458241",
+       "importe_aprobado": 2309,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24458483",
+       "importe_aprobado": 7000,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24458673",
+       "importe_aprobado": 9480,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24460834",
+       "importe_aprobado": 4896,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24465053",
+       "importe_aprobado": 1153,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24466483",
+       "importe_aprobado": 127480,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24468730",
+       "importe_aprobado": 7000,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS PETRONA V. DE CORDERO",
+       "codigo_refes": 10067492100393,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24472247",
+       "importe_aprobado": 1896,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DESCENTRALIZADO EVITA PUEBLO",
+       "codigo_refes": 10060912100383,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24472916",
+       "importe_aprobado": 5193,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DESCENTRALIZADO EVITA PUEBLO",
+       "codigo_refes": 10060912100383,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-24474735",
+       "importe_aprobado": 18052,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS DESCENTRALIZADO EVITA PUEBLO",
+       "codigo_refes": 10060912100383,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-25219359",
+       "importe_aprobado": 1138,
+       "nombre_hospital": "HOSPITAL MUNICIPAL DE AGUDOS DR. LEONIDAS LUCERO",
+       "codigo_refes": 10060562200307,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-25466760",
+       "importe_aprobado": 316,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-25476002",
+       "importe_aprobado": 316,
+       "nombre_hospital": "CENTRO PERIFERICO DIAGONAL SALTA",
+       "codigo_refes": 50067562201468,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-25497043",
+       "importe_aprobado": 5377,
+       "nombre_hospital": "HOSPITAL MATERNO INFANTIL DR. CARLOS GIANNANTONIO",
+       "codigo_refes": 12067562207009,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-27236130",
+       "importe_aprobado": 1500,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-27257394",
+       "importe_aprobado": 3091,
+       "nombre_hospital": "HOSPITAL SATURNINO E. UNZUE DE 25 DE MAYO",
+       "codigo_refes": 10068542200373,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-31119844",
+       "importe_aprobado": 1481,
+       "nombre_hospital": "HOSPITAL ESPECIALIZADO MATERNO INFANTIL ANA GOITIA",
+       "codigo_refes": 12060352100558,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32922168",
+       "importe_aprobado": 1122,
+       "nombre_hospital": "CENTRO DE SALUD DR FRANCISCO MU¥IZ \"EL NIDO\"",
+       "codigo_refes": 50067562201243,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32924383",
+       "importe_aprobado": 3549,
+       "nombre_hospital": "CENTRO DE SALUD DR FRANCISCO MU¥IZ \"EL NIDO\"",
+       "codigo_refes": 50067562201243,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32925713",
+       "importe_aprobado": 726,
+       "nombre_hospital": "CENTRO DE SALUD DR FRANCISCO MU¥IZ \"EL NIDO\"",
+       "codigo_refes": 50067562201243,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32970051",
+       "importe_aprobado": 316,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32976397",
+       "importe_aprobado": 474,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-32979714",
+       "importe_aprobado": 395,
+       "nombre_hospital": "CENTRO PERIFERICO BAJO BOULOGNE",
+       "codigo_refes": 50067562201452,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-33605998",
+       "importe_aprobado": 5414.36,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-33606399",
+       "importe_aprobado": 3543,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-33606492",
+       "importe_aprobado": 6986,
+       "nombre_hospital": "HOSPITAL INTERZONAL GENERAL DE AGUDOS GENERAL SAN MARTIN",
+       "codigo_refes": 10064412100235,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-33910246",
+       "importe_aprobado": 396,
+       "nombre_hospital": "HOSPITAL ZONAL GENERAL DE AGUDOS MI PUEBLO",
+       "codigo_refes": 10062742100225,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-33915804",
+       "importe_aprobado": 4434,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO NEUROPSIQUIATRICO DR. ALEJANDRO KORN",
+       "codigo_refes": 13064412100614,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "2018-34287069",
+       "importe_aprobado": 14999,
+       "nombre_hospital": "HOSPITAL ESPECIALIZADO MATERNO INFANTIL ANA GOITIA",
+       "codigo_refes": 12060352100558,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2018-12-27",
+       "nro_expediente": "33843/2017",
+       "importe_aprobado": 1402236,
+       "nombre_hospital": "HOSPITAL INTERZONAL DR. J. A. ESTEVES",
+       "codigo_refes": 13064902100616,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-04112028",
+       "importe_aprobado": 1295,
+       "nombre_hospital": "HOSPITAL LOCAL GENERAL DE AGUDOS DR. ARTURO MELO",
+       "codigo_refes": 10064342100248,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10266924",
+       "importe_aprobado": 66,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10284854",
+       "importe_aprobado": 16040,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10297486",
+       "importe_aprobado": 66,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10298409",
+       "importe_aprobado": 132,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10298612",
+       "importe_aprobado": 1527,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10353370",
+       "importe_aprobado": 30045.24,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10478010",
+       "importe_aprobado": 208,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10478599",
+       "importe_aprobado": 208,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10479082",
+       "importe_aprobado": 103,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10480511",
+       "importe_aprobado": 4961.69,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10480900",
+       "importe_aprobado": 416,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-10997236",
+       "importe_aprobado": 82584.12,
+       "nombre_hospital": "HOSPITAL INTERZONAL DE AGUDOS ESPECIALIZADO EN PEDIATRIA SUPERIORA SOR MARIA LUDOVICA",
+       "codigo_refes": 11064412100536,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-11201615",
+       "importe_aprobado": 15738,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-11397706",
+       "importe_aprobado": 4121,
+       "nombre_hospital": "HOSPITAL NACIONAL PROFESOR ALEJANDRO POSADAS",
+       "codigo_refes": 10065682000343,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-11896485",
+       "importe_aprobado": 9512,
+       "nombre_hospital": "CENTRO  CRISOL",
+       "codigo_refes": 50067492201217,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-12160587",
+       "importe_aprobado": 3737,
+       "nombre_hospital": "HOSPITAL SUBZONAL DR. ENRIQUE ERILL",
+       "codigo_refes": 10062522100384,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-12422487",
+       "importe_aprobado": 132,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-12423683",
+       "importe_aprobado": 198,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-12426392",
+       "importe_aprobado": 8133,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    },
+    {
+       "fecha_deposito": "2019-01-08",
+       "nro_expediente": "2018-12427544",
+       "importe_aprobado": 948,
+       "nombre_hospital": "HOSPITAL INTERZONAL ESPECIALIZADO MATERNO INFANTIL DR. VICTORIO TETAMANTI",
+       "codigo_refes": 12063572100547,
+       "id_provincia": 6,
+       "provincia": "BUENOS AIRES"
+    }
+]

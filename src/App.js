@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "antd/dist/antd.css";
+import 'antd/dist/antd.min.css'
 import './App.css'
 import ProtectedRoute from "./components/ProtectedRoute";
 import { UserAuthContextProvider} from "./context/AuthContext";
@@ -9,6 +9,7 @@ import Login from "./view/Login";
 import Signup from "./view/Signup";
 import Start from "./view/Start";
 import Startet from "./view/Startet"
+import ListaHospital from "./containers/ListaHospital";
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
           <Route path="/" element={<Start />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
+          <Route path="/listhospital" element={<ListaHospital />} />
           <Route path="/startet" element={
             <ProtectedRoute>
               <Startet/>
