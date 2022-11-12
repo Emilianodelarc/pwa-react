@@ -1,7 +1,8 @@
 import React from 'react'
 import CardsLoading from '../components/CardsLoading';
+import Greeting from '../components/Greeting';
 import Menu from '../components/Menu';
-import User from '../components/User';
+
 
 function Startet() {
  
@@ -9,6 +10,7 @@ function Startet() {
   return (
     <>
       <Menu/>
+      <Greeting/>
       <CardsLoading/>
     </>
   )

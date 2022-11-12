@@ -22,9 +22,9 @@ function Menu() {
             <a href="#">
               <li>Info</li>
             </a>
-            <a href="#">
-              <li>Contact</li>
-            </a>
+            <Link to={'/profile'} >
+              <li>Profile</li>
+            </Link>
             <User/>
           </ul>
         </div>}
